@@ -4,7 +4,7 @@ AquaShield Solutions is a Singapore startup with a focus on water quality. We ar
 
 Click [here](https://drive.google.com/file/d/1m1HYyffI-bUx7D_zxRk3kbFrVkIp9rto/view) for introductory video!
 
-![AquaShield](https://github.com/AquaShield-Solutions/.github/blob/main/docs/img/AquaShield.png)
+![AquaShield](https://github.com/AquaShield-Solutions/.github/blob/main/docs/img/aquashield-solutions-pic1.png)
 
 ## Our Digital Products
 1) Aquarium/Aquaculture Digital Platform (Man-made)
